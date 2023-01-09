@@ -1,16 +1,32 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>hey helo haii :D</h1>
+  <img src="https://giffiles.alphacoders.com/770/77003.gif" width="200"/>
+<div/>
+<br/>
+  
+---
+  
+<div id="miscellaneous" align="center">
+  I'm french canadian! :fr: :canada:<br/>
+  I'm currently studying at EFREI Paris to become an engineer!<br/>
+  If you haven't noticed, i like anime and japanese shit!
+<div/>
+  
+---
+  
+<div id="language" align="center">
+  Languages i <em>try</em> to code in or learn :<br/>
+  <br/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJs" alt="DiscordJs" width="50" height="50"/>&nbsp;
+<div/>
+  
+---
+<div id="stats" align="center">
+  <em>If you care about them :</em>
+<div/>
 
-<!--
-**Frexium/Frexium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Frexium&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frexium&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
