@@ -1,15 +1,6 @@
-<div id="header" align="center">
-  <h1>:star2: hey helo haii :D :star2:</h1>
-  <img src="https://giffiles.alphacoders.com/770/77003.gif" width="200"/>
-<div/>
-<br/>
-  
----
-  
 <div id="miscellaneous" align="center">
   I'm french canadian! :fr: :canada:<br/>
   I'm currently studying at EFREI Paris to become an engineer!<br/>
-  If you haven't noticed, i like anime and japanese shit!
 <div/>
   
 ---
