@@ -6,7 +6,7 @@
 ---
   
 <div id="language" align="center">
-  Languages i <em>try</em> to code in or learn :<br/>
+  Languages i code in or learn :<br/>
   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
