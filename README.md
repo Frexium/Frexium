@@ -1,6 +1,6 @@
 <div id="miscellaneous" align="center">
   I'm french canadian! :fr: :canada:<br/>
-  I'm currently studying at EFREI Paris to become an engineer!<br/>
+  I like anime and vtoobers.<br/>
 <div/>
   
 ---
